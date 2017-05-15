@@ -183,18 +183,6 @@ Try opening a web browser on your phone and opening the URL that the packager sc
 exp://192.168.0.1:19000
 ```
 
-Try opening Safari or Chrome on your phone and loading
-
-```
-http://192.168.0.1:19000
-```
-
-and
-
-```
-http://192.168.0.1:19001
-```
-
 If this works, but you're still unable to load your app by scanning the QR code, please open an issue on the [Create React Native App repository](https://github.com/react-community/create-react-native-app) with details about these steps and any other error messages you may have received.
 
 If you're not able to load the `http` URL in your phone's web browser, try using the tethering/mobile hotspot feature on your phone (beware of data usage, though), connecting your computer to that WiFi network, and restarting the packager.
